@@ -1,0 +1,93 @@
+# ▶ Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ▶ Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# ▶ PyCaret 내부 캐시 및 임시 디렉토리 (종종 생김)
+pycaret_cache/
+
+# ▶ 가상환경
+.env/
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+venv.bak/
+
+# ▶ 설치 디렉토리 및 빌드 아티팩트
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+develop-eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+
+# ▶ IDE 및 편집기 설정
+.vscode/
+.idea/
+.spyderproject/
+.spyproject/
+.ropeproject/
+
+# ▶ Test/coverage
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# ▶ Logs, DB, 기타
+*.log
+*.sqlite3
+db.sqlite3
+db.sqlite3-journal
+
+# ▶ Package Manager (Poetry, Pipenv, PDM 등)
+.pdm.toml
+.pdm-python
+.pdm-build/
+pdm.lock
+poetry.lock
+Pipfile.lock
+
+# ▶ Static type checker
+.mypy_cache/
+.pytype/
+.pyre/
+
+# ▶ Cython
+cython_debug/
+
+# ▶ Ruff
+.ruff_cache/
+
+# ▶ Markdown / Docs
+site/
+docs/_build/
+
+# ▶ Mac/Linux OS
+.DS_Store
+Thumbs.db
+
+# ▶ 기타 제외 디렉토리 (직접 명시)
+bank/
+
+# ▶ 개인 환경 설정 파일 (옵션)
+*.bak
+*.swp
+*.tmp
+*.orig
