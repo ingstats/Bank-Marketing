@@ -16,9 +16,10 @@
    - LightGBM, XGBoost, GradientBoosting
    - Soft Voting 앙상블
 3. **DL 기반 모델링 (PyTorch MLP)**
+   - baseline + develop
    - Flexible MLP 구조
    - Focal Loss & EarlyStopping
-4. **성능 기준: F2-score 기반 Threshold 튜닝**
+5. **성능 기준: F2-score 기반 Threshold 튜닝**
 
 ---
 
