@@ -4,7 +4,7 @@
 
 ### ✅ **프로젝트 개요**
 - **목표:** 마케팅 응답 (`y`) 예측 모델 개발 (Binary Classification)
-- **데이터:** UCI Bank Marketing (전처리 완료 데이터 사용)
+- **데이터:** UCI Bank Marketing 
 - **핵심 평가 지표:** **F2-score 중심 성능 최적화**
 
 ---
